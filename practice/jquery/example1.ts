@@ -4,7 +4,7 @@
 
 // <reference path="lib/jquery.d.ts" />
 
-module Fazt.FirstModule {
+module Nec.FirstModule {
     export class Handler {
         static DisplayDate(): void {
             var currentDate:Date = new Date();
@@ -13,4 +13,4 @@ module Fazt.FirstModule {
     }
 }
 
-$('#btnGo').click(Fazt.FirstModule.Handler.DisplayDate);
+$('#btnGo').click(Nec.FirstModule.Handler.DisplayDate);

@@ -1,4 +1,4 @@
-let myNickname: string = 'Fazt';
+let myNickname: string = 'Nec';
 
 let myAge: number = 80;
 
