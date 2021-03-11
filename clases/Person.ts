@@ -16,13 +16,13 @@ class Person {
 }
 
 let maria:Person = new Person();
-maria.firstName = 'Maria';
-maria.lastName = 'Levasca';
+maria.firstName = 'Mayra';
+maria.lastName = 'Gómez';
 maria.age = 25;
 
 let isaac:Person = new Person();
-isaac.firstName = 'Isaac';
-isaac.lastName = 'Delahaye';
+isaac.firstName = 'Manuel';
+isaac.lastName = 'Ayala';
 
 maria.greet(isaac.firstName);
 
